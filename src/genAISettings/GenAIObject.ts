@@ -1,6 +1,6 @@
 import _ from 'lodash';
 
-export class GenAIObject {
+export default class GenAIObject {
   id: string;
 
   constructor() {

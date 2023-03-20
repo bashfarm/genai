@@ -1,4 +1,4 @@
-import { GenAIObject } from './GenAIObject';
+import GenAIObject from './GenAIObject';
 import LayerInterface from './LayerInterface';
 
 export default class GenAISetting extends GenAIObject {
