@@ -1,3 +1,2 @@
-import GenAISetting from './genAISettings/GenAISetting';
+export * from './genAISettings/GenAISetting';
 
-export default GenAISetting;
