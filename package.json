@@ -1,6 +1,6 @@
 {
   "name": "genai",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Universal Generative AI (GenAI) Settings for GenAI applications",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
