@@ -37,6 +37,9 @@ bower_components
 # npm library files
 lib/
 
+# npm library files
+dist/
+
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
