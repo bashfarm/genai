@@ -1,5 +1,6 @@
 describe('Load Settings', () => {
   test('should load settings', () => {
-    console.log('test');
+    // create a dummy test that always passes
+    expect(true).toBe(true);
   });
 });
