@@ -1,0 +1,49 @@
+{
+    "id": "1",
+    "layerContexts": {
+        "1249": {
+            "id": "1249",
+            "currentPrompt": "A stunning landscape with a castle embedded in a snowy mountain, anime style",
+            "stylingStrength": 1,
+            "consistencyStrength": 0,
+            "seed": -1,
+            "negativePrompt": "",
+            "docType": "illustration",
+            "batchSize": 1,
+            "imageHeight": 1024,
+            "imageWidth": 1024,
+            "model_config": "OpenJourney-Config",
+            "is_cloud_run": true,
+            "isGenerating": false,
+            "name": null,
+            "currentLayer": null,
+            "generationModelName": "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+            "tempLayer": {
+                "_id": 491,
+                "_docId": 637
+            }
+        },
+        "1251": {
+            "id": "1251",
+            "currentPrompt": "A stunning landscape of a mountain with fresh snow, anime style",
+            "stylingStrength": 1,
+            "consistencyStrength": 0.18,
+            "seed": -1,
+            "negativePrompt": "",
+            "docType": "illustration",
+            "batchSize": 1,
+            "imageHeight": 1024,
+            "imageWidth": 1024,
+            "model_config": "OpenJourney-Config",
+            "is_cloud_run": false,
+            "isGenerating": false,
+            "name": null,
+            "currentLayer": null,
+            "generationModelName": "v1-5-pruned-emaonly.safetensors [6ce0161689]",
+            "tempLayer": {
+                "_id": 492,
+                "_docId": 637
+            }
+        }
+    }
+}
