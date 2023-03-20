@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import { GenAIObject } from './GenAIObject';
 
 export default class GenAISetting extends GenAIObject {
