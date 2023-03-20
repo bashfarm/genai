@@ -2,6 +2,7 @@ import GenAIObject from './GenAIObject';
 import LayerInterface from './LayerInterface';
 
 export default class GenAISetting extends GenAIObject {
+  id!: string;
   name: string;
   generationModelName: string;
   currentLayer: LayerInterface;
